@@ -1,1 +1,0 @@
-Discord game bot for Oni Squad Discord.
